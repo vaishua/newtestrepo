@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Vaishali/SOFTWARE/server-jre-8u202-windows-x64/jdk1.8.0_202/jre/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="D:/Vaishali/SOFTWARE/server-jre-8u202-windows-x64/jdk1.8.0_202/jre/lib/jce.jar"/>
+	<classpathentry kind="lib" path="D:/Vaishali/SOFTWARE/server-jre-8u202-windows-x64/jdk1.8.0_202/jre/lib/jfr.jar"/>
+	<classpathentry kind="lib" path="D:/Vaishali/SOFTWARE/server-jre-8u202-windows-x64/jdk1.8.0_202/jre/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="D:/Vaishali/SOFTWARE/server-jre-8u202-windows-x64/jdk1.8.0_202/jre/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="D:/Vaishali/SOFTWARE/server-jre-8u202-windows-x64/jdk1.8.0_202/jre/lib/resources.jar"/>
+	<classpathentry kind="lib" path="D:/Vaishali/SOFTWARE/server-jre-8u202-windows-x64/jdk1.8.0_202/jre/lib/rt.jar"/>
+	<classpathentry kind="lib" path="D:/Vaishali/SOFTWARE/server-jre-8u202-windows-x64/jdk1.8.0_202/lib/dt.jar"/>
+	<classpathentry kind="lib" path="D:/Vaishali/SOFTWARE/server-jre-8u202-windows-x64/jdk1.8.0_202/lib/jconsole.jar"/>
+	<classpathentry kind="lib" path="D:/Vaishali/SOFTWARE/server-jre-8u202-windows-x64/jdk1.8.0_202/lib/sa-jdi.jar"/>
+	<classpathentry kind="lib" path="D:/Vaishali/SOFTWARE/server-jre-8u202-windows-x64/jdk1.8.0_202/lib/tools.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
